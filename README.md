@@ -3,6 +3,7 @@
 I'm Anik Saha, a passionate learner and midnight dreamer. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaniksahaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaniksahaa" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/stars/aaniksahaa" /> </p>
 ![GitHub User's stars](https://img.shields.io/github/stars/aaniksahaa)
 
 <!--
